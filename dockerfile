@@ -1,3 +1,4 @@
+This is a sample dockerfile
 From devopsedu/webapp
 RUN apt-get update
 RUN apt-get install -y apache2
